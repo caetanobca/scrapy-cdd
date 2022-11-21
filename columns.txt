@@ -1,0 +1,14 @@
+nome, genero, data_nascimento,
+
+presença_plenario, ausencia_plenario, ausencia_justificada_plenario, presenca_comissao, ausencia_comissao, ausencia_justificada_comissao, 
+
+gasto_total_par, gasto_jan_par, gasto_fev_par, gasto_mar_par, gasto_abr_par, 
+gasto_maio_par, gasto_junho_par, gasto_jul_par, gasto_agosto_par, gasto_set_par,
+gasto_out_par, gasto_nov_par, gasto_dez_par, 
+salario_bruto_par,
+
+gasto_total_gab, gasto_jan_gab, gasto_fev_gab, gasto_mar_gab, gasto_abr_gab ,
+gasto_maio_gab, gasto_junho_gab, gasto_jul_gab, gasto_agosto_gab,
+gasto_set_gab, gasto_out_gab, gasto_nov_gab, gasto_dez_gab, 
+
+salario_bruto, quant_viagem 
